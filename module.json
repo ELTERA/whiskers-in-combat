@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
-    "name": "whiskers-in-combat",
-    "author": "teralove",
-    "description": "Get message when you enter combat while wearing Angler Whiskers",
+    "name": "whiskers-in-dungeon",
+    "author": "teralove/EL",
+    "description": "Get message when you enter dungeon while wearing Angler Whiskers",
     "version": "1", 
     "options": {
-        "niceName": "Whiskers in Combat"
+        "niceName": "Whiskers in Dungeon"
     },
     "servers": ["https://raw.githubusercontent.com/ELTERA/whiskers-in-combat/master/"]
 }

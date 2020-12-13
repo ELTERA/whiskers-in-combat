@@ -1,2 +1,2 @@
-# whiskers-in-combat
-Receive message when you enter combat while Angler Whiskers are equipped.
+# whiskers-in-dungeon
+Receive message when you enter dungeon while Angler Whiskers are equipped.
