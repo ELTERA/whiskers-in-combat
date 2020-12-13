@@ -3,13 +3,9 @@
     "name": "whiskers-in-combat",
     "author": "teralove",
     "description": "Get message when you enter combat while wearing Angler Whiskers",
-    "version": "4/23/2019", 
+    "version": "1", 
     "options": {
-        "niceName": "Whiskers in Combat",
-        "settingsVersion": 1,
-        "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"    
+        "niceName": "Whiskers in Combat"
     },
-    "servers": ["https://raw.githubusercontent.com/teralove/whiskers-in-combat/master/"],
-    "supportUrl": "https://github.com/teralove/whiskers-in-combat/issues"
+    "servers": ["https://raw.githubusercontent.com/ELTERA/whiskers-in-combat/master/"]
 }
