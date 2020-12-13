@@ -7,13 +7,12 @@ module.exports = function WhiskersInCombat(mod) {
     
     mod.game.me.on('enter_combat', () => { 
         if (mod.game.inventory.findInEquipment(WhiskerIDs)) {
-            if (mod.settings.proxyMessage) 
                 mod.send('S_DUNGEON_EVENT_MESSAGE', 2, {
-                    "type": 44,
-                    "chat": false,
-                    "channel": 0,
-                    "message": Message
-                });
+                "type": 44,
+                "chat": false,
+                "channel": 0,
+                "message": Message
+            });
         }
     })
 
